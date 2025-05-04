@@ -1,5 +1,4 @@
 speechrecognition
 openai
-wikipedia
 pywin32
 pyaudio
