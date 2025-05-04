@@ -1,0 +1,14 @@
+OpenAI Response for Query: using AI write a JavaScript program 
+-------------------------
+
+Certainly! Here is a simple JavaScript program that asks for a user's name and then greets them:
+
+```javascript
+// Ask user for their name
+const name = prompt("What is your name?");
+
+// Greet the user
+console.log(`Hello, ${name}! Nice to meet you.`);
+```
+
+You can run this program in your browser console or a JavaScript runtime environment like Node.js.
